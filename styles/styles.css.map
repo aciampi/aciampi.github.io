@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","sources":["styles.scss","partials/nav.scss"],"sourcesContent":["@import 'partials/nav.scss';","body {\r\n    color: red;\r\n}"],"names":[],"mappings":"ACAA,AAAA,IAAI,CAAC;EACD,KAAK,EAAE,GAAG,GACb"}
